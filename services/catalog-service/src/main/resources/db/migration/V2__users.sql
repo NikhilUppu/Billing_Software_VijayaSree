@@ -1,0 +1,7 @@
+CREATE TABLE user_account (
+	id VARCHAR(50) PRIMARY KEY,
+	username VARCHAR(100) NOT NULL UNIQUE,
+	password_hash TEXT NOT NULL,
+	role VARCHAR(20) NOT NULL,
+	is_active BOOLEAN NOT NULL DEFAULT TRUE
+);

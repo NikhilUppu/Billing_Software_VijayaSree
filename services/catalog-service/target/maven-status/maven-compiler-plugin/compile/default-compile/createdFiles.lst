@@ -1,0 +1,8 @@
+com/vijayasree/catalog/api/ProductController.class
+com/vijayasree/catalog/config/SecurityConfig.class
+com/vijayasree/catalog/service/ProductService.class
+com/vijayasree/catalog/domain/Product.class
+com/vijayasree/catalog/domain/Company.class
+com/vijayasree/catalog/CatalogApplication.class
+com/vijayasree/catalog/repo/CompanyRepository.class
+com/vijayasree/catalog/repo/ProductRepository.class

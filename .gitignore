@@ -1,0 +1,40 @@
+# Java / Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+
+# Spring Boot
+*.log
+*.tmp
+*.pid
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Node (if used for tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local env/secrets
+*.env
+.env.*
+
+# Generated files
+/dist/
+/build/
